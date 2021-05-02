@@ -1,0 +1,10 @@
+First run the m file TRAS NonLinear Parameters
+then LQG for TRAS Pitch
+then LQG for TRAS Yaw angle
+then Observer with LQG control structure main
+then Observer with LQG control structure Tail
+At Last open the Simulink Full Nonlinear with DOB file and run 
+You can Download the related Journal Paper 
+https://www.researchgate.net/publication/340716523_Disturbance_observer_based_control_of_Twin_Rotor_Aerodynamic_System
+For Explaination Visit https://youtu.be/P4MQxy6dMFw
+also watch https://youtu.be/bv7Hx4V7IMY
